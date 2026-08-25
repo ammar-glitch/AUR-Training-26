@@ -1,3 +1,0 @@
-banana,5
-apple,7
-mango,7
